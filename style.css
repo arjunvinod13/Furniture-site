@@ -1,0 +1,30 @@
+
+#a:hover{
+    background-color: rgba(230, 155, 238, 0.225);
+    border-radius: 10px;
+}
+
+#b:hover{
+    background-color: rgba(135, 182, 54, 0.201);
+    border-radius: 10px;
+}
+
+#c:hover{
+    background-color: rgba(109, 4, 4, 0.232);
+    border-radius: 10px;
+}
+#e {
+    color: rgb(23, 85, 2);
+}
+#d{
+    color: rgb(66, 2, 56);
+}
+#f{
+    color: rgb(85, 2, 2);
+}
+#w:hover{
+    background-color: rgba(9, 0, 0, 0.225);
+    
+}
+
+
